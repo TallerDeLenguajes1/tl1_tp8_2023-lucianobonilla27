@@ -13,3 +13,18 @@ C:\Users\Luciano\Desktop\tp8-TLI\tl1_tp8_2023-lucianobonilla27\tp8\obj\Debug\net
 C:\Users\Luciano\Desktop\tp8-TLI\tl1_tp8_2023-lucianobonilla27\tp8\obj\Debug\net7.0\tp8.pdb
 C:\Users\Luciano\Desktop\tp8-TLI\tl1_tp8_2023-lucianobonilla27\tp8\obj\Debug\net7.0\tp8.genruntimeconfig.cache
 C:\Users\Luciano\Desktop\tp8-TLI\tl1_tp8_2023-lucianobonilla27\tp8\obj\Debug\net7.0\ref\tp8.dll
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\bin\Debug\net7.0\tp8.exe
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\bin\Debug\net7.0\tp8.deps.json
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\bin\Debug\net7.0\tp8.runtimeconfig.json
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\bin\Debug\net7.0\tp8.dll
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\bin\Debug\net7.0\tp8.pdb
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\obj\Debug\net7.0\tp8.csproj.AssemblyReference.cache
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\obj\Debug\net7.0\tp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\obj\Debug\net7.0\tp8.AssemblyInfoInputs.cache
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\obj\Debug\net7.0\tp8.AssemblyInfo.cs
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\obj\Debug\net7.0\tp8.csproj.CoreCompileInputs.cache
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\obj\Debug\net7.0\tp8.dll
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\obj\Debug\net7.0\refint\tp8.dll
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\obj\Debug\net7.0\tp8.pdb
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\obj\Debug\net7.0\tp8.genruntimeconfig.cache
+C:\Users\BONILLA\Desktop\Segundo año\Taller de lenguajes I\tps\tp8\tl1_tp8_2023-lucianobonilla27\tp8\obj\Debug\net7.0\ref\tp8.dll

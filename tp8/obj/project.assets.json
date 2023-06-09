@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Luciano\\.nuget\\packages\\": {}
+    "C:\\Users\\BONILLA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\tp8-TLI\\tl1_tp8_2023-lucianobonilla27\\tp8\\tp8.csproj",
+      "projectUniqueName": "C:\\Users\\BONILLA\\Desktop\\Segundo año\\Taller de lenguajes I\\tps\\tp8\\tl1_tp8_2023-lucianobonilla27\\tp8\\tp8.csproj",
       "projectName": "tp8",
-      "projectPath": "C:\\Users\\Luciano\\Desktop\\tp8-TLI\\tl1_tp8_2023-lucianobonilla27\\tp8\\tp8.csproj",
-      "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luciano\\Desktop\\tp8-TLI\\tl1_tp8_2023-lucianobonilla27\\tp8\\obj\\",
+      "projectPath": "C:\\Users\\BONILLA\\Desktop\\Segundo año\\Taller de lenguajes I\\tps\\tp8\\tl1_tp8_2023-lucianobonilla27\\tp8\\tp8.csproj",
+      "packagesPath": "C:\\Users\\BONILLA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BONILLA\\Desktop\\Segundo año\\Taller de lenguajes I\\tps\\tp8\\tl1_tp8_2023-lucianobonilla27\\tp8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Luciano\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\BONILLA\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
